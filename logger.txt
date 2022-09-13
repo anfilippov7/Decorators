@@ -1,0 +1,4 @@
+Дата и время вызова функции temperature_air: 2022-09-13 17:54:17.135604
+Функция temperature_air вызвана с параметрами:  {'town': 'Москва'}
+Функция temperature_air возвращает значение температуры: 14.0 градусов цельсия
+Путь к логам C:\Users\sashf\PycharmProjects\pythonProject17\logger.txt
